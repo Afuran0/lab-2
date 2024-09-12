@@ -1,1 +1,11 @@
-
+For n=5, the probability of having at least one shared birthday is 0.02
+For n=10, the probability of having at least one shared birthday is 0.12
+For n=15, the probability of having at least one shared birthday is 0.25
+For n=20, the probability of having at least one shared birthday is 0.41
+For n=25, the probability of having at least one shared birthday is 0.57
+For n=30, the probability of having at least one shared birthday is 0.70
+For n=35, the probability of having at least one shared birthday is 0.80
+For n=40, the probability of having at least one shared birthday is 0.90
+For n=45, the probability of having at least one shared birthday is 0.94
+For n=50, the probability of having at least one shared birthday is 0.98
+PS C:\Users\amede> 
